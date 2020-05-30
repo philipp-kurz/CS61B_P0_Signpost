@@ -1,5 +1,5 @@
 # CS61B_P0_Signpost
-The game Signpost in Java. Project 0 for CS61B - "Data Structures" at UC Berkeley during Fall 2019.
+The game Signpost in Java. [Project 0 for CS61B](http://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj0/) - "Data Structures" at UC Berkeley during Fall 2019.
 
 The code is based on skeleton code from the class. Project was completed using the IntelliJ Java IDE.
 
