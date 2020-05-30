@@ -13,4 +13,5 @@ The code is based on skeleton code from the class. Project was completed using t
 [Web version of the game](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/signpost.html)
 
 
-![signpost](https://user-images.githubusercontent.com/54779918/83332479-b47ddf00-a29b-11ea-8861-1fc7ddc68953.gif)
+![signpostsmaller](https://user-images.githubusercontent.com/54779918/83333880-24dc2e80-a2a3-11ea-95f3-d2fc454b6551.gif)
+
