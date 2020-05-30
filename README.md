@@ -9,6 +9,7 @@ The code is based on skeleton code from the class. Project was completed using t
 
 > By default, the upper-left square is initially numbered 1 and the lower-right square contains the last number (the total number of squares on the board). The "Type" menu allows you to change the dimensions of the board and to change the default so that the first and last squares in the sequence are "free ends", which can appear anywhere on the board.
 
+---
 
 [Web version of the game](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/signpost.html)
 
