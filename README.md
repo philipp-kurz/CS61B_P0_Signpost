@@ -1,7 +1,7 @@
 # CS61B_P0_Signpost
 The game Signpost in Java. [Project 0 for CS61B](http://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj0/) - "Data Structures" at UC Berkeley during Fall 2019.
 
-The code is based on skeleton code from the class. Project was completed using the IntelliJ Java IDE.
+The code is based on skeleton code from the class. Project was completed using the IntelliJ Java IDE. This submission received full score including extra credit.
 
 > The goal of this puzzle is to link the board squares by queen moves so that each square appears once in the sequence of linked squares and the positions of all the initially numbered squares are equal to their positions in the sequence. The term "queen move" here refers to the queen in chess, which can move any number of squares horizontally, vertically, or diagonally.
 
